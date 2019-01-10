@@ -1,9 +1,7 @@
 $logPath = "c:\test\fileTransferLog.txt"
 $fileTransferPath = "C:\Test\files"
 $expiredFilePath = "c:\test\Expired Files\*"
-#07.06.18 - changed $expireInterval from '15' to '60'; INC0170666\CHG0042621
 
-## $moveInterval = "15"
 $expireInterval = "60"
 
 do{
